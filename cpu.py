@@ -1,8 +1,8 @@
 
 class Cpu():
 
-	def __init__(self, mem):
-		self._memory = mem
+	def __init__(self, meme):
+		self._memory = meme
 		self._pc = 0
 
 	def start(self):
